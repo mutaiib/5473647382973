@@ -1,0 +1,137 @@
+
+html{
+    margin: 0;
+   
+}
+body{
+    background-image: url('https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=620&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    
+
+    font-family: 'Playfair Display', serif;
+
+}
+/*main page*/
+.align-picture{
+    display: block;
+    margin: auto;
+    margin-top: 0;
+    align-content: center;
+}
+
+.main-picture{
+    display: block;
+    margin: auto;
+    margin-top: 0;
+    width: 20%;
+    
+}
+.text-1,
+.link-1 {
+    text-align: center;
+    color:white;
+    margin-bottom: 0;
+    
+    
+}
+
+.extra-1{
+    
+    font-size: 20px;
+
+}
+
+.link-1{
+    margin-bottom: 0;
+}
+
+.footer-1{
+    font-size: .8rem;
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.table-1{
+    margin-top: 2em;
+    margin-bottom: .2em;
+    margin-left: auto;
+    margin-right: auto;
+   
+   
+    /*border-collapse: collapse;
+    border-spacing: 20px;*/
+}
+
+.one,
+.two,
+.three,
+.four,
+.five {
+    text-align: center;
+   
+    
+
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: darkblue;
+}
+
+.table-2{
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+}
+.table-2-heading{
+    font-size: 20px;
+    color: white;
+}
+
+.extra-2{
+    margin-top: 400px;
+}
+.table-3{
+    margin-left: 75%;
+    margin-bottom: 0;
+    margin-top: -320px;
+    
+    
+
+}
+.side-bar{
+    color: white;
+}
+.read-more{
+    color: red;
+}
+.random-1{
+    color: red;
+}
+.list-1{
+    color: red;
+}
+#home-1,
+#home-2,
+#home-3,
+#home-4,
+#home-5{
+    color: white;
+
+}
+p{
+    color: blueviolet;
+}
+
+.three-days{
+    color: red;
+}

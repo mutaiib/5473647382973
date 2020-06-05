@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+
+.main-1{
+    font-size: 1.5rem;
+
+}
+
+.date{
+    font-size: 0.8rem;
+}
+
+p{
+    font-size: 1rem;
+}

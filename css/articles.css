@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+.image-1{
+    width: 100%;
+    margin: 0 auto;
+}
+.container{
+    width: 50%;
+    margin: 0 auto;
+}
+.heading-1{
+    font-size: 1rem;
+
+}
+li{
+    list-style: none;
+}
+.imp{
+    text-align: center;
+    padding: 10px;
+    padding-top: 330px;
+    font-size: .8rem;
+
+}
+a:hover{
+    text-decoration: none;
+    color: green;
+}
