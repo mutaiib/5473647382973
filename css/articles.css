@@ -20,7 +20,7 @@ body{
 
 }
 li{
-    list-style: none;
+    
 }
 .imp{
     text-align: center;
@@ -32,4 +32,8 @@ li{
 a:hover{
     text-decoration: none;
     color: green;
+}
+
+.manage{
+    margin-left: 30px;
 }
